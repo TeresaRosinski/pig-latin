@@ -10,7 +10,7 @@
     - Input Example: 5
     - Output Example: 5
 
- * _The program should return all alphabetical characters as lowercase.
+ X* _The program should return all alphabetical characters as lowercase. 
     - Input Example: GLASS, ThERe
     - Output Example: glass, there   
 
