@@ -6,7 +6,39 @@
 
 ## Description
 
-* _ The program should
+* _The program should return non-alphabetical characters unchanged
+    - Input Example: 5
+    - Output Example: 5
+
+ * _The program should return all alphabetical characters as lowercase.
+    - Input Example: GLASS, ThERe
+    - Output Example: glass, there   
+
+* _The program should should return words that begin with vowels, with "way" at the end.
+    - Input Example: Egg, Over
+    - Output Example: Eggway, Overway 
+
+* _The program should return words that begin with a consonant, with the consonant at the end of the word.
+  - Input Example: hello, baby
+  - Output Example: elloh, abyb
+
+* _The program should return words that begin with "y" as though "y" is a consonant and not a vowel
+    - Input Example: yellow, yak
+    - Output Example: ellowy, aky     
+
+* _The program should return words that begin with more than one consonant, with all consonants before the first vowel at the end of the word.
+    - Input Example: glass, there
+    - Output Example: assgl, ereth
+
+* _The program should return words in which the first vowel is "u" and the preceding consonant is "q", with all characters before and including "u" at the end of the word.
+    - Input Example: Quiet, squirm
+    - Output Example: ietqu, irmsqu    
+
+* _The program should return -'ay' to the end of words that start with consonants after they have been adjusted according to the rules above. 
+    - Input Example: glass 
+    - Output Example: assglay
+
+
 
 ## Setup/Installation Requirements
 
